@@ -1,7 +1,5 @@
 Esse projeto foi desenvolvido em um desafio proposto pelo site frontendmentor.io
 
-## Overview
-
 ## Construído com
 
 - Marcação HTML5 semântica
