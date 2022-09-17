@@ -8,7 +8,7 @@ Esse projeto foi desenvolvido em um desafio proposto pelo site frontendmentor.io
 
 ## Link
 
-link: https://QR_code.vercel.app/
+link: (https://qr-code-liart-ten.vercel.app/)
 
 ## Autor
 
